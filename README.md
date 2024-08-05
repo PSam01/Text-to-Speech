@@ -56,12 +56,12 @@ Deploy the Lambda functions and configure the triggers and permissions.
 3. The Notification Handler Lambda function updates the DynamoDB table and sends a notification via SNS.
 
 ## How to use the application
-1. Write some text
-2. Choose Voice (The accent of the voice that you gonna hear your message)
-3. Press the button "Say it!" and wait to appear the Post ID
-4. Copy the Post ID and paste it here 'Provide post ID which you want to retrieve:'
-5. Press the button search, wait some seconds and the audio is going to appear below
-6. Now you can press the play button to hear your text, at the accent you chose.
+1. Write something in the text section.
+2. Choose Voice (The accent of the voice in which your message will be delivered).
+3. Press the button "Say it!" and wait for the Post ID to appear (Next to the button "Say it!").
+4. Copy the Post ID and paste it here 'Provide post ID which you want to retrieve:'.
+5. Press the button search, wait some seconds and the audio is going to appear below.
+6. Finally you can press the play button to hear your text, at the accent you chose.
 
 ## Resources
 
